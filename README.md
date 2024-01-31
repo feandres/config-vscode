@@ -1,5 +1,5 @@
-Extensões a serem instaladas:
+#Extensões a serem instaladas:
 
-Prettier
-Min Theme
-Icons
+- Prettier
+- Min Theme
+- Icons
